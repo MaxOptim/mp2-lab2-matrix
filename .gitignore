@@ -17,6 +17,7 @@
 *.ilk
 *.sln
 *.open*
+/sln/vc10/Debug/*
 
 # Precompiled Headers
 *.gch
